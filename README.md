@@ -14,7 +14,8 @@ The goals of this session are to 1) explain in short why libraries need to be ma
 
 ## Instructors
 
-Luis Roperta Vargas Pineda
+Luis Roberto Vargas Pineda
+<br>
 Corinna Kratzke
 
 ## Further resources
