@@ -6,6 +6,7 @@ institute: "Hertie School"
 date: "2022/11/12 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
+    keep_md: true
     lib_dir: libs
     nature:
       highlightStyle: github
