@@ -32,4 +32,4 @@ The material in this repository is made available under the [MIT license](http:/
 
 **Corinna Kratzke** prepared the presentation slides and post-processed the recording.
 
-**Luis Roberta Vargas Pineda** prepared the material files. The recording was prepared jointly. 
+**Luis Roberto Vargas Pineda** prepared the material files. The recording was prepared jointly. 
