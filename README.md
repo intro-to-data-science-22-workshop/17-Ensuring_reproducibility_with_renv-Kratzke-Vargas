@@ -1,4 +1,4 @@
-# 17-Ensuring_reproducibility_with_renv-Kratzke-Vargas
+# 17-Ensuring reproducibility with renv
 
 ## Summary
 
