@@ -167,7 +167,7 @@ renv::status()
 
 ```{r}
 
-renv::update(packages = "tidyverse", library = "/IDS-Workshop_Working_Material.Rproj/renv/library/R-4.2/x86_64-w64-mingw32")
+renv::update(packages = "tidyverse", library = "/17-Ensuring_reproducibilty_with_renv-Kratzke-Vargas/renv/library/R-4.2/x86_64-w64-mingw32")
 
 ```
 
